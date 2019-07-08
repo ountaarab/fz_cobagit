@@ -1,3 +1,4 @@
 Ini teks mencoba membuat branch 1st
 Ini teks mencoba melakukan perubahan pada file branch
 melakukan perubahan ke fz_cobabranch.txt
+nambahin lagi dong pertama di fz_cobabranch.txt
