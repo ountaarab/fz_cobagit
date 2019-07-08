@@ -1,5 +1,6 @@
 Ini teks mencoba membuat branch 1st
 Ini teks mencoba melakukan perubahan pada file branch
 melakukan perubahan ke fz_cobabranch.txt
-ini dari Coba-Fitur-2 doong
+
+nambahin lagi dong pertama di fz_cobabranch.txt
 nambahin lagi dong kedua di fz_cobabranch.txt
