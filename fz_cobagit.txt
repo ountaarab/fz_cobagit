@@ -1,2 +1,3 @@
 testing pertama kali menggunakan github
-testing membuat commit kedua
+Testing menghilangakan 1 point sebelumnya
+dan menambah 1 point setelahnya
